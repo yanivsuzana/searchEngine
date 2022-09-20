@@ -1,0 +1,151 @@
+input {
+  border: none;
+  padding: 8px;
+  width: 430px;
+  margin-left: 14px;
+  margin-top: 7px;
+  outline: none;
+}
+.autocomplete {
+  position: relative;
+  width: 500px;
+  margin: 0 auto;
+  box-shadow: 1px 1px 8px 1px #dcdcdc;
+  border-radius: 30px;
+  border: 1px solid #dcdcdc;
+  height: 44px;
+}
+.container {
+  padding: 10px;
+}
+.result-list {
+  position: absolute;
+  z-index: 9;
+  width: 500px;
+  margin: 0 auto;
+  box-shadow: 1px 1px 8px 1px #dcdcdc;
+  border-radius: 0 0 0 0;
+  border: 1px solid #dcdcdc;
+  background: white;
+}
+.result-history {
+  position: absolute;
+  z-index: 10;
+  width: 500px;
+  margin: 0 auto;
+  box-shadow: 1px 1px 8px 1px #dcdcdc;
+  border-radius: 0 0 0 0;
+  border: 1px solid #dcdcdc;
+  background: white;
+}
+.result-history div {
+  padding: 0.4em;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  align-items: center
+}
+
+.result-list div {
+  padding: 0.4em;
+  cursor: pointer;
+}
+.history-clock {
+  height: 20px;
+  width: 20px;
+  background: url('svg/clock.svg') no-repeat;
+  background-size: 100% 100%;
+}
+
+.result-history div:hover {
+background: silver;
+}
+
+.result-list div:hover {
+  background: silver;
+}
+
+.result-table div {
+  padding: 0.3em;
+  cursor: pointer;
+
+}
+.result-table h3 {
+  margin:0.1em;
+  font-family: Arial,sans-serif;
+  font-size: 20px;
+  font-weight:normal;
+  color: rgb(26, 13, 171);
+  cursor: pointer;
+}
+
+.App {
+  width: 880px;
+  margin: 44px auto;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  align-content: center;
+  justify-content: center;
+  justify-self: center;
+  align-items: center;
+}
+
+.hide {
+  display: none;
+}
+.show {
+  display: flex !important;
+}
+.result-table {
+  width: 100%;
+  margin-top: 1em;
+}
+
+.row {
+  margin-top: 1em;
+}
+
+@media only screen and (max-width: 768px) {
+  .MuiBox-root div {
+    margin-top: 0.5em;
+    justify-items: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .App {
+    width: 100%;
+    margin: 24px auto;
+  }
+
+  .autocomplete {
+    position: relative;
+    width: 328px;
+    margin: 0 auto;
+    box-shadow: 1px 1px 8px 1px #dcdcdc;
+    border-radius: 30px;
+    border: 1px solid #dcdcdc;
+    height: 44px;
+  }
+  .autocomplete input {
+    border: none;
+    padding: 8px;
+    width: 230px;
+    margin-left: 14px;
+    margin-top: 7px;
+    outline: none;
+  }
+
+  .result-list {
+    width: 330px;
+  }
+
+  .result-history {
+    width: 330px;
+  }
+
+  .result-table {
+    margin-left: 4em;
+  }
+}

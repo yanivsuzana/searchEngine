@@ -1,0 +1,301 @@
+{
+  "searchItems": [
+    {
+      "searchTerm": "react",
+      "uid": "aaa1t",
+      "historyItem": 0,
+      "results": [
+        {
+          "link": "https://reactjs.org/",
+          "name": "Best react",
+          "description": "This is react bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://reactjs.org/",
+          "name": "Best react 2021",
+          "description": "This is react bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://reactjs.org/",
+          "name": "Best react 2022",
+          "description": "This is react bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://reactjs.org/",
+          "name": "Best react cola 2023",
+          "description": "This is temp bla bla for coca cola 2022"
+        }
+      ]
+    },
+    {
+      "searchTerm": "reactjs",
+      "uid": "aaa2t",
+      "historyItem": 0,
+      "results": [
+        {
+          "link": "https://reactjs.org/",
+          "name": "Best react reactjs 2020",
+          "description": "This is reactjs bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://reactjs.org/",
+          "name": "Best react cola 2021",
+          "description": "This is reactjs bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://reactjs.org/",
+          "name": "Best react cola 2022",
+          "description": "This is reactjs bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://reactjs.org/",
+          "name": "Best react cola 2023",
+          "description": "This is reactjs bla bla for coca cola 2022"
+        }
+      ]
+    },
+    {
+      "searchTerm": "javascript",
+      "uid": "aaa3t",
+      "historyItem": 0,
+      "results": [
+        {
+          "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+          "name": "Best javascript  2020",
+          "description": "This is temp bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+          "name": "Best javascript 2021",
+          "description": "This is javascript bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+          "name": "Best javascript 2022",
+          "description": "This is javascript bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+          "name": "Best javascript 2022",
+          "description": "This is javascript bla bla for coca cola 2022"
+        }
+      ]
+    },
+    {
+      "searchTerm": "java",
+      "uid": "aaa4t",
+      "historyItem": 0,
+      "results": [
+        {
+          "link": "https://www.java.com/en/",
+          "name": "Best java  2020",
+          "description": "This is temp bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://www.java.com/en/",
+          "name": "Best java 2021",
+          "description": "This is java bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://www.java.com/en/",
+          "name": "Best java  2022",
+          "description": "This is java bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://www.java.com/en/",
+          "name": "Best coca cola 2022",
+          "description": "This is java bla bla for coca cola 2022"
+        }
+      ]
+    },
+    {
+      "searchTerm": "c#",
+      "uid": "aaa5t",
+      "historyItem": 0,
+      "results": [
+        {
+          "link": "https://www.w3schools.com/cs/index.php",
+          "name": "Best c#  2020",
+          "description": "This is c#  bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://www.w3schools.com/cs/index.php",
+          "name": "Best coca c#  2021",
+          "description": "This is c#  bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://www.w3schools.com/cs/index.php",
+          "name": "Best coca c#  2022",
+          "description": "This is c#  bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://www.w3schools.com/cs/index.php",
+          "name": "Best coca c#  2022",
+          "description": "This is c#  bla bla for coca cola 2022"
+        }
+      ]
+    },
+    {
+      "searchTerm": "coca cola1",
+      "uid": "aaa6t",
+      "historyItem": 0,
+      "results": [
+        {
+          "link": "https://www.coca-colacompany.com/",
+          "name": "Best coca cola 2020",
+          "description": "This is temp bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://www.coca-colacompany.com/",
+          "name": "Best coca cola 2021",
+          "description": "This is temp bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://www.coca-colacompany.com/",
+          "name": "Best coca cola 2022",
+          "description": "This is temp bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://www.coca-colacompany.com/",
+          "name": "Best coca cola 2022",
+          "description": "This is temp bla bla for coca cola 2022"
+        }
+      ]
+    },
+    {
+      "searchTerm": "coca cola4",
+      "uid": "aaa7t",
+      "historyItem": 0,
+      "results": [
+        {
+          "link": "https://www.coca-colacompany.com/",
+          "name": "Best coca cola4 2020",
+          "description": "This is temp bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://www.coca-colacompany.com/",
+          "name": "Best coca cola4 2021",
+          "description": "This is temp bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://www.coca-colacompany.com/",
+          "name": "Best coca cola4 2022",
+          "description": "This is temp bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://www.coca-colacompany.com/",
+          "name": "Best coca cola4 2022",
+          "description": "This is temp bla bla for coca cola 2022"
+        }
+      ]
+    },
+    {
+      "searchTerm": "coca cola5",
+      "uid": "aaa8t",
+      "historyItem": 0,
+      "results": [
+        {
+          "link": "https://www.coca-colacompany.com/",
+          "name": "Best coca cola5 2020",
+          "description": "This is temp bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://www.coca-colacompany.com/",
+          "name": "Best coca cola5 52021",
+          "description": "This is temp bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://www.coca-colacompany.com/",
+          "name": "Best coca cola5 52022",
+          "description": "This is temp bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://www.coca-colacompany.com/",
+          "name": "Best coca cola5 2022",
+          "description": "This is temp bla bla for coca cola 2022"
+        }
+      ]
+    },
+    {
+      "searchTerm": "coca c61",
+      "uid": "aaa9t",
+      "historyItem": 0,
+      "results": [
+        {
+          "link": "https://www.coca-colacompany.com/",
+          "name": "Best coca cola6 2020",
+          "description": "This is temp bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://www.coca-colacompany.com/",
+          "name": "Best coca cola6 2021",
+          "description": "This is temp bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://www.coca-colacompany.com/",
+          "name": "Best coca cola6 2022",
+          "description": "This is temp bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://www.coca-colacompany.com/",
+          "name": "Best coca cola6 62022",
+          "description": "This is temp bla bla for coca cola 2022"
+        }
+      ]
+    },
+    {
+      "searchTerm": "coca cola7",
+      "uid": "aaa10t",
+      "historyItem": 0,
+      "results": [
+        {
+          "link": "https://www.coca-colacompany.com/",
+          "name": "Best coca cola7 2020",
+          "description": "This is temp bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://www.coca-colacompany.com/",
+          "name": "Best coca cola7 2021",
+          "description": "This is temp bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://www.coca-colacompany.com/",
+          "name": "Best coca cola7 2022",
+          "description": "This is temp bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://www.coca-colacompany.com/",
+          "name": "Best coca cola7 2022",
+          "description": "This is temp bla bla for coca cola 2022"
+        }
+      ]
+    },
+    {
+      "searchTerm": "doca cola8",
+      "uid": "aaa11t",
+      "historyItem": 0,
+      "results": [
+        {
+          "link": "https://www.coca-colacompany.com/",
+          "name": "Best doca cola8 2022",
+          "description": "This is temp bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://www.coca-colacompany.com/",
+          "name": "Best doca cola8 2022",
+          "description": "This is temp bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://www.coca-colacompany.com/",
+          "name": "Best doca cola8 2022",
+          "description": "This is temp bla bla for coca cola 2022"
+        },
+        {
+          "link": "https://www.coca-colacompany.com/",
+          "name": "Best doca cola8 2022",
+          "description": "This is temp bla bla for coca cola 2022"
+        }
+      ]
+    }
+  ]
+}
